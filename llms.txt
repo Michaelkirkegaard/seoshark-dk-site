@@ -1,0 +1,24 @@
+# SEO Shark
+
+> Dansk læringssite om søgemaskineoptimering: ét gratis SEO-kursus i otte moduler plus to specialiserede spor om GEO (Generative Engine Optimization) og AEO (Answer Engine Optimization). Få sider, høj kvalitet, opdateret løbende.
+
+SEO Shark drives af Michael Kirkegaard, SEO-specialist med mere end ti års erfaring og til daglig CEO for to danske webshops. Metoderne på sitet er testet i praksis; blandt andet gav målrettet GEO-arbejde for casen VICOS 2.100 citationer i Microsoft Copilot på et halvt år. Kurset er gratis og kræver ingen tilmelding.
+
+## Sider
+
+- [Forside](https://seoshark.dk/): Overblik over de tre spor: SEO-kursus, GEO og AEO.
+- [SEO-kursus](https://seoshark.dk/seo-kursus/): Gratis SEO-kursus i otte moduler med øvelser: sådan virker en søgemaskine, søgeord og intention, on-page SEO, teknisk SEO, indhold der ranker, links og autoritet, lokal SEO, måling i Search Console, plus et niende modul om GEO og AEO.
+- [GEO](https://seoshark.dk/geo/): Generative Engine Optimization: hvordan man bliver kilden, AI-assistenter som ChatGPT, Copilot og Gemini citerer.
+- [AEO](https://seoshark.dk/aeo/): Answer Engine Optimization: hvordan man ejer svaret i featured snippets, People Also Ask og AI-oversigter.
+- [Om SEO Shark](https://seoshark.dk/om/): Hvem der står bag, og hvorfor kurset er gratis.
+
+## Bag sitet
+
+- Michael Kirkegaard: https://michaelkirkegaard.dk/
+- LinkedIn: https://www.linkedin.com/in/michaelkirkegaardclausen/
+- Profit Studio: https://profitstudio.io/
+
+## Kontakt
+
+- Book en gratis SEO-snak: https://calendly.com/mail-michaelkirkegaard/30min
+- Email: mail@michaelkirkegaard.dk
